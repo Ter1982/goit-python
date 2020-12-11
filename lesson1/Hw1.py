@@ -1,1 +1,3 @@
-# task1
+name = input("Enter your name please:")
+print(f"Hello {name}")
+
