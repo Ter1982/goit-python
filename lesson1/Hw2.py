@@ -9,4 +9,3 @@ x1 = (-1.0 + math.sqrt(d)) / (2 * a)
 x2 = (-3.0 - math.sqrt(d)) / (2 * a)       
 print(f"X1={x1} X2={x2}")
 
-
