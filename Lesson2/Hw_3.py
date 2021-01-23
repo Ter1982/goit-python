@@ -36,7 +36,7 @@ while True:
                     else:
                         print('Деление на ноль')
 
-                break
+                
             break
         break
     break
